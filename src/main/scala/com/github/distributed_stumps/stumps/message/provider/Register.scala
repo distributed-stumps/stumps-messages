@@ -1,4 +1,4 @@
-package com.github.scalable_tech.stumps.message.provider
+package com.github.distributed_stumps.stumps.message.provider
 
 import akka.actor.ActorRef
 import io.johnmurray.akkanamenode.message.common._

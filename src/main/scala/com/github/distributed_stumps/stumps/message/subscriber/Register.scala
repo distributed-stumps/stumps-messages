@@ -1,4 +1,4 @@
-package com.github.scalable_tech.stumps.message.subscriber
+package com.github.distributed_stumps.stumps.message.subscriber
 
 /**
  * Register to listen for resources

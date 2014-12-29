@@ -1,3 +1,3 @@
-package com.github.scalable_tech.stumps.message.subscriber
+package com.github.distributed_stumps.stumps.message.subscriber
 
 case class Add(resource: ResourceIdentifier)
