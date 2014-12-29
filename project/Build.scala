@@ -12,7 +12,7 @@ object Dependencies {
  
 object BuildSettings {
  
-   val buildOrganization = "com.github.scalable_tech"
+   val buildOrganization = "com.github.distributed_stumps"
    val appName = "stumps-messgaes"
    val buildVersion = "0.0.1-SNAPSHOT"
    val buildScalaVersion = "2.11.4"
