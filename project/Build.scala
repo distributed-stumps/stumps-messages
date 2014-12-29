@@ -13,7 +13,7 @@ object Dependencies {
 object BuildSettings {
  
    val buildOrganization = "com.github.distributed_stumps"
-   val appName = "stumps-messgaes"
+   val appName = "stumps-messages"
    val buildVersion = "0.0.1-SNAPSHOT"
    val buildScalaVersion = "2.11.4"
    val buildScalaOptions = Seq("-unchecked", "-deprecation", "-encoding", "utf8")
