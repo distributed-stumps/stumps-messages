@@ -1,3 +1,3 @@
 package com.github.distributed_stumps.stumps.message.subscriber
 
-case class Add(resource: ResourceIdentifier)
+case class Subscribe(resource: ResourceIdentifier)

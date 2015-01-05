@@ -1,6 +1,7 @@
 package com.github.distributed_stumps.stumps.message.provider
 
 /**
- * Sent back to clients to let them know they've successfully registered
+ * Acknowledgement message sent back to provider to let them know that the resource has
+ * been successfully registered.
  */
 case object Registered

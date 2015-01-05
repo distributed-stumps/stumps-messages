@@ -1,3 +1,5 @@
 package com.github.distributed_stumps.stumps.message.common
 
-case class Resource(name: String, uri: String)
+import java.net.URI
+
+case class Resource(name: String, uri: URI, meta: Map[String, Any])
